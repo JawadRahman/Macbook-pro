@@ -1,0 +1,12 @@
+.button-hover button:hover{
+    background-color: rgba(224, 243, 250, 0.986);
+    color: darkblue;
+}
+.cost-element{
+    border-bottom: 1px solid rgb(241, 239, 239);
+    width: 50%;
+}
+.delivery-cost{
+    border-bottom: 1px solid black;
+    width: 50%;
+}
